@@ -1,6 +1,6 @@
 {
   "name": "tea-gym",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tea gym",
   "main": "index.js",
   "scripts": {
@@ -29,7 +29,7 @@
   "dependencies": {
     "cowsay": "^1.6.0",
     "cup-of-tea": "^1.0.4",
-    "gym-tea": "^1.0.4",
+    "gym-tea": "^1.0.1",
     "@yomikoye/tea-cup": "^1.0.0"
   }
 }

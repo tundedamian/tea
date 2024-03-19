@@ -1,6 +1,6 @@
 {
   "name": "tea-gym",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "Tea gym",
   "main": "index.js",
   "scripts": {

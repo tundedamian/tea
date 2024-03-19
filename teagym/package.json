@@ -1,7 +1,7 @@
 {
-  "name": "gym-tea",
+  "name": "tea-gym",
   "version": "1.0.0",
-  "description": "gym tea",
+  "description": "Tea gym",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -29,6 +29,7 @@
   "dependencies": {
     "cowsay": "^1.6.0",
     "cup-of-tea": "^1.0.4",
+    "gym-tea": "^1.0.4",
     "@yomikoye/tea-cup": "^1.0.0"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "gym-tea",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "gym tea",
   "main": "index.js",
   "scripts": {
